@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: 졸업사진_2.jpg
+  image: my_prof_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>starmj09@snu.ac.kr</p>
