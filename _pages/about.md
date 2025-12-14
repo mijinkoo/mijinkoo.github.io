@@ -9,8 +9,6 @@ profile:
   image: my_prof_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>starmj09@snu.ac.kr</p>
-    <p>[LinkedIn](https://www.linkedin.com/in/mijinkoo/)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -32,4 +30,4 @@ My research interests lie in **Generative AI**, **Trustworthy AI**, and **Comput
 
 Previously, I received my B.S. in **Computer Science and Engineering** from **Ewha Womans University**. During my undergraduate studies, I worked as a Research Intern at the **Korea Institute of Science and Technology (KIST)**, where I developed adversarial defense mechanisms utilizing Diffusion models.
 
-I am always open to discussing new research ideas. Please feel free to contact me via email.
+I am always open to discussing new research ideas. Please feel free to contact me via [email](mailto:starmj09@snu.ac.kr) or [LinkedIn](https://www.linkedin.com/in/mijinkoo).
