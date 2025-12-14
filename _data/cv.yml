@@ -9,7 +9,7 @@
     - title: B.S. in Computer Science and Engineering
       institution: Ewha Womans University, Seoul, Korea
       year: 2020.03 - 2024.08
-      description: "Advisor: Prof. Suhyun Kim"
+      description: "Advisor: Dr. Suhyun Kim"
 
 - title: Research Experience
   type: time_table
@@ -25,7 +25,6 @@
       institution: AI and Robotics Institute, KIST
       year: 2023.06 - 2023.12
       description: |
-        Advisor: Dr. Suhyun Kim.
         Developed adversarial defense mechanisms utilizing Diffusion and Super-Resolution models.
 
 - title: Honors & Awards
