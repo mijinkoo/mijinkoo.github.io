@@ -27,7 +27,7 @@ latest_posts:
 
 I am a M.S. student in the **Department of Intelligence and Information** at **Seoul National University**, advised by Prof. [Nojun Kwak]([https://mipal.snu.ac.kr/index.php/Nojun_Kwak](https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en)) in the **[Machine Intelligence and Pattern Recognition Lab (MIPAL)](https://mipal.snu.ac.kr/)**.
 
-My research interests lie in **Generative AI**, **Trustworthy AI**, and **Computer Vision**. I am particularly interested in safety alignment, robustness in large-scale foundation models, and protecting data from potential model misuse.
+My research interests lie in **Generative AI**, **Trustworthy AI**, and **Computer Vision**. I am particularly interested in safety alignment, robustness in large-scale foundation models, and protecting data from potential generative model misuse.
 
 Previously, I received my B.S. in Computer Science and Engineering from **Ewha Womans University**. During my undergraduate studies, I worked as a Research Intern at the **Korea Institute of Science and Technology (KIST)**, where I developed adversarial defense mechanisms utilizing Diffusion models.
 
