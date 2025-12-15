@@ -19,7 +19,7 @@
     - title: B.S. in Computer Science and Engineering
       institution: Ewha Womans University, Seoul, Korea
       year: "2020.03 - 2024.08"
-      description: |
+      description:
 
 - title: Research Experience
   type: time_table
@@ -55,17 +55,17 @@
       institution: Capstone Design @ Ewha Womans Univ.
       year: "2023.02 - 2023.06"
       description:
-        - Engineered an Object Detection pipeline (PyTorch) for food recognition and deployed a FastAPI server. <br>
-        - Built a custom food image dataset via AI HUB to enhance model accuracy for Korean cuisine. <br>
-        - Selected as the University Representative Team for the National SW Talent Festival. <br>
+        - Engineered an Object Detection pipeline (PyTorch) for food recognition and deployed a FastAPI server.
+        - Built a custom food image dataset via AI HUB to enhance model accuracy for Korean cuisine.
+        - Selected as the University Representative Team for the National SW Talent Festival.
         <a href="YOUR_GITHUB_LINK">[GitHub]</a>
 
     - title: Smart Bakery - Self-Order Kiosk Web Service
       institution: Undergraduate Course Project
       year: "2021.07 - 2021.08"
       description:
-        - Developed a full-stack prototype integrating Vanilla JavaScript frontend with an AI inference backend. <br>
-        - Implemented an Image Classification model (PyTorch) to automate bakery product checkout. <br>
+        - Developed a full-stack prototype integrating Vanilla JavaScript frontend with an AI inference backend.
+        - Implemented an Image Classification model (PyTorch) to automate bakery product checkout.
         <a href="YOUR_GITHUB_LINK">[GitHub]</a>
 
 - title: Extracurricular Experience
