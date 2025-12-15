@@ -1,44 +1,102 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Mijin Koo
+    - name: Languages
+      value: Korean (Native), English (Professional Working Proficiency)
+
 - title: Education
   type: time_table
   contents:
     - title: M.S. in Intelligence and Information
       institution: Seoul National University, Seoul, Korea
-      year: 2024.09 - Present
-      description: "Advisor: Prof. Nojun Kwak"
+      year: "2024.09 - Present"
+      description: |
+        Advisor: Prof. Nojun Kwak <br>
+        <a href="https://mipal.snu.ac.kr/">Machine Intelligence and Pattern Recognition Lab (MIPAL)</a>
 
     - title: B.S. in Computer Science and Engineering
       institution: Ewha Womans University, Seoul, Korea
-      year: 2020.03 - 2024.08
-      description: "Advisor: Dr. Suhyun Kim"
+      year: "2020.03 - 2024.08"
+      description: |
+        GPA: 4.08/4.50
 
 - title: Research Experience
   type: time_table
   contents:
     - title: Graduate Researcher
       institution: Machine Intelligence and Pattern Recognition Lab (MIPAL), SNU
-      year: 2024.01 - Present
+      year: "2024.01 - Present"
       description: |
-        Research Focus: Generative AI, Trustworthy AI, Computer Vision.
-        Leading research on safety alignment and robustness of generative models in computer vision.
+        Research Focus: Trustworthy Generative AI, Computer Vision. <br>
+        Developing robust and secure generative vision models, with a primary focus on data protection, adversarial defense, and model provenance against potential misuse.
 
     - title: Undergraduate Research Intern
       institution: AI and Robotics Institute, KIST
-      year: 2023.06 - 2023.12
+      year: "2023.06 - 2023.12"
       description: |
-        Developed adversarial defense mechanisms utilizing Diffusion and Super-Resolution models.
+        Advisor: Dr. Suhyun Kim <br>
+        - Developed adversarial defense mechanisms utilizing Diffusion and Super-Resolution models. <br>
+        - Conducted comparative analysis on purification performance against diverse adversarial attacks.
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: A Single Word Bypass - How Name Tokens Break Data Protection
+      institution: Coursework @ SNU
+      year: "2025.03 - 2025.06"
+      description: |
+        - Proved via mechanistic analysis that token choice bypasses existing diffusion personalization safeguards. <br>
+        - Proposed a token-agnostic defense strategy and established robust evaluation protocols for realistic threats.
+
+    - title: CareSpoon - AI-based Nutrition Monitoring Service for Seniors
+      institution: Capstone Design @ Ewha Womans Univ.
+      year: "2023.02 - 2023.06"
+      description: |
+        - Engineered an Object Detection pipeline (PyTorch) for food recognition and deployed a FastAPI server. <br>
+        - Built a custom food image dataset via AI HUB to enhance model accuracy for Korean cuisine. <br>
+        - Selected as the University Representative Team for the National SW Talent Festival. <br>
+        <a href="YOUR_GITHUB_LINK">[GitHub]</a>
+
+    - title: Smart Bakery - Self-Order Kiosk Web Service
+      institution: Undergraduate Course Project
+      year: "2021.07 - 2021.08"
+      description: |
+        - Developed a full-stack prototype integrating Vanilla JavaScript frontend with an AI inference backend. <br>
+        - Implemented an Image Classification model (PyTorch) to automate bakery product checkout. <br>
+        <a href="YOUR_GITHUB_LINK">[GitHub]</a>
+
+- title: Extracurricular Experience
+  type: time_table
+  contents:
+    - title: President
+      institution: SK LOOKIE (Social Venture Club)
+      year: "2023.02 - 2024.02"
+      description: Directed the university chapter, overseeing social impact projects and sustainable business modeling.
+
+    - title: Manager / Academic Lead
+      institution: AI Club Euron
+      year: "2021.03 - 2022.08"
+      description: Curated the curriculum for Computer Vision (CS231n) study sessions and led technical seminars.
+
+    - title: Core Member
+      institution: Google Developer Student Club (GDSC)
+      year: "2021.07 - 2022.07"
+      description: Active participant in MLOps and Mobile Dev (React Native) tracks; solved algorithmic challenges.
 
 - title: Honors & Awards
   type: time_table
   contents:
     - title: Selected as University Representative Team
       institution: SW Talent Festival
-      year: 2023.11
+      year: "2023.11"
     - title: Excellence Award
       institution: Capstone Project Poster Session, Ewha Womans University
-      year: 2023.05
+      year: "2023.05"
     - title: 2nd Place (Excellence Award)
       institution: SK Telecom AI Tech Academy
-      year: 2023.02
+      year: "2023.02"
     - title: 3rd Place
       institution: SW Start-up Competition, Ewha Womans University
-      year: 2022.11
+      year: "2022.11"
