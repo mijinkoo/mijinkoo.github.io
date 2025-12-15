@@ -45,28 +45,27 @@
     - title: A Single Word Bypass - How Name Tokens Break Data Protection
       institution: <a href="https://viplab.snu.ac.kr/viplab/courses/mlvu_2025_1/projects.html">Machine Learning for Visual Understanding</a> @ SNU
       year: "2025.03 - 2025.06"
-      description:
+      description: |
         - Proved via mechanistic analysis that token choice bypasses existing diffusion personalization safeguards.
         - Proposed a token-agnostic defense strategy and established robust evaluation protocols for realistic threats.
-        <a href="https://viplab.snu.ac.kr/viplab/courses/mlvu_2025_1/projects/11.pdf">[PDF]</a>
-        <a href="https://www.youtube.com/watch?si=Ti-ntjIC4_ucIFg4&v=dYZb40vAQRE&feature=youtu.be">[Video]</a>
+        <a href="https://viplab.snu.ac.kr/viplab/courses/mlvu_2025_1/projects/11.pdf">[PDF]</a> &nbsp; <a href="https://www.youtube.com/watch?si=Ti-ntjIC4_ucIFg4&v=dYZb40vAQRE&feature=youtu.be">[Video]</a>
     
     - title: CareSpoon - AI-based Nutrition Monitoring Service for Seniors
       institution: Capstone Design @ Ewha Womans Univ.
       year: "2023.02 - 2023.06"
-      description:
+      description: |
         - Engineered an Object Detection pipeline (PyTorch) for food recognition and deployed a FastAPI server.
         - Built a custom food image dataset via AI HUB to enhance model accuracy for Korean cuisine.
         - Selected as the University Representative Team for the National SW Talent Festival.
-        <a href="YOUR_GITHUB_LINK">[GitHub]</a>
+        <a href="https://github.com/CareSpoon/CareSpoon_AI">[GitHub]</a>
 
     - title: Smart Bakery - Self-Order Kiosk Web Service
       institution: Undergraduate Course Project
       year: "2021.07 - 2021.08"
-      description:
+      description: |
         - Developed a full-stack prototype integrating Vanilla JavaScript frontend with an AI inference backend.
         - Implemented an Image Classification model (PyTorch) to automate bakery product checkout.
-        <a href="YOUR_GITHUB_LINK">[GitHub]</a>
+        <a href="https://github.com/gdscewha-3rd/Project-KIOSK">[GitHub]</a>
 
 - title: Extracurricular Experience
   type: time_table
