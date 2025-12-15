@@ -34,39 +34,36 @@
     - title: Undergraduate Research Intern
       institution: AI and Robotics Institute, KIST
       year: "2023.06 - 2023.12"
-      description: |
-        - Advisor: Dr. Suhyun Kim
+      description:
+        - Advised by Dr. Suhyun Kim
         - Developed adversarial defense mechanisms utilizing Diffusion and Super-Resolution models.
         - Conducted comparative analysis on purification performance against diverse adversarial attacks.
 
 - title: Projects
   type: time_table
   contents:
-    - title: A Single Word Bypass - How Name Tokens Break Data Protection
+    - title: A Single Word Bypass - How Name Tokens Break Data Protection <a href="https://viplab.snu.ac.kr/viplab/courses/mlvu_2025_1/projects/11.pdf">[PDF]</a> &nbsp; <a href="https://www.youtube.com/watch?si=Ti-ntjIC4_ucIFg4&v=dYZb40vAQRE&feature=youtu.be">[Video]</a>
       institution: <a href="https://viplab.snu.ac.kr/viplab/courses/mlvu_2025_1/projects.html">Machine Learning for Visual Understanding</a> @ SNU
       year: "2025.03 - 2025.06"
       description: |
         - Proved via mechanistic analysis that token choice bypasses existing diffusion personalization safeguards.
         - Proposed a token-agnostic defense strategy and established robust evaluation protocols for realistic threats.
-        <a href="https://viplab.snu.ac.kr/viplab/courses/mlvu_2025_1/projects/11.pdf">[PDF]</a> &nbsp; <a href="https://www.youtube.com/watch?si=Ti-ntjIC4_ucIFg4&v=dYZb40vAQRE&feature=youtu.be">[Video]</a>
     
-    - title: CareSpoon - AI-based Nutrition Monitoring Service for Seniors
+    - title: CareSpoon - AI-based Nutrition Monitoring Service for Seniors <a href="https://github.com/CareSpoon/CareSpoon_AI">[GitHub]</a>
       institution: Capstone Design @ Ewha Womans Univ.
       year: "2023.02 - 2023.06"
       description:
-        - Engineered an Object Detection pipeline (PyTorch) for food recognition and deployed a FastAPI server. <br>
-        - Built a custom food image dataset via AI HUB to enhance model accuracy for Korean cuisine. <br>
-        - Selected as the University Representative Team for the National SW Talent Festival. <br>
-        <a href="https://github.com/CareSpoon/CareSpoon_AI">[GitHub]</a>
+        - Engineered an Object Detection pipeline (PyTorch) for food recognition and deployed a FastAPI server.
+        - Built a custom food image dataset via AI HUB to enhance model accuracy for Korean cuisine.
+        - Selected as the University Representative Team for the National SW Talent Festival.
 
-    - title: Smart Bakery - Self-Order Kiosk Web Service
+    - title: Smart Bakery - Self-Order Kiosk Web Service <a href="https://github.com/gdscewha-3rd/Project-KIOSK">[GitHub]</a>
       institution: Undergraduate Course Project
       year: "2021.07 - 2021.08"
-      description: |
-        Developed a full-stack prototype integrating Vanilla JavaScript frontend with an AI inference backend.
+      description:
+        - Developed a full-stack prototype integrating Vanilla JavaScript frontend with an AI inference backend.
         - Implemented an Image Classification model (PyTorch) to automate bakery product checkout.
-        <a href="https://github.com/gdscewha-3rd/Project-KIOSK">[GitHub]</a>
-
+        
 - title: Extracurricular Experience
   type: time_table
   contents:
