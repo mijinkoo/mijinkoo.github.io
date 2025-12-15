@@ -54,9 +54,9 @@
       institution: Capstone Design @ Ewha Womans Univ.
       year: "2023.02 - 2023.06"
       description: |
-        Engineered an Object Detection pipeline (PyTorch) for food recognition and deployed a FastAPI server.
-        - Built a custom food image dataset via AI HUB to enhance model accuracy for Korean cuisine.
-        - Selected as the University Representative Team for the National SW Talent Festival.
+        Engineered an Object Detection pipeline (PyTorch) for food recognition and deployed a FastAPI server. <br>
+        Built a custom food image dataset via AI HUB to enhance model accuracy for Korean cuisine. <br>
+        Selected as the University Representative Team for the National SW Talent Festival. <br>
         <a href="https://github.com/CareSpoon/CareSpoon_AI">[GitHub]</a>
 
     - title: Smart Bakery - Self-Order Kiosk Web Service
