@@ -20,7 +20,6 @@
       institution: Ewha Womans University, Seoul, Korea
       year: "2020.03 - 2024.08"
       description: |
-        GPA: 4.08/4.50
 
 - title: Research Experience
   type: time_table
@@ -29,16 +28,16 @@
       institution: Machine Intelligence and Pattern Recognition Lab (MIPAL), SNU
       year: "2024.01 - Present"
       description: |
-        Research Focus: Trustworthy Generative AI, Computer Vision. <br>
+        Research Focus: Trustworthy Generative AI, Computer Vision.
         Developing robust and secure generative vision models, with a primary focus on data protection, adversarial defense, and model provenance against potential misuse.
 
     - title: Undergraduate Research Intern
       institution: AI and Robotics Institute, KIST
       year: "2023.06 - 2023.12"
       description: |
-        Advisor: Dr. Suhyun Kim <br>
-        - Developed adversarial defense mechanisms utilizing Diffusion and Super-Resolution models. <br>
-        - Conducted comparative analysis on purification performance against diverse adversarial attacks.
+        Advisor: Dr. Suhyun Kim
+        Developed adversarial defense mechanisms utilizing Diffusion and Super-Resolution models. <br>
+        Conducted comparative analysis on purification performance against diverse adversarial attacks.
 
 - title: Projects
   type: time_table
@@ -47,8 +46,8 @@
       institution: Coursework @ SNU
       year: "2025.03 - 2025.06"
       description: |
-        - Proved via mechanistic analysis that token choice bypasses existing diffusion personalization safeguards. <br>
-        - Proposed a token-agnostic defense strategy and established robust evaluation protocols for realistic threats.
+        Proved via mechanistic analysis that token choice bypasses existing diffusion personalization safeguards. <br>
+        Proposed a token-agnostic defense strategy and established robust evaluation protocols for realistic threats.
 
     - title: CareSpoon - AI-based Nutrition Monitoring Service for Seniors
       institution: Capstone Design @ Ewha Womans Univ.
