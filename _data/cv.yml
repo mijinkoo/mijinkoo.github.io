@@ -27,14 +27,14 @@
     - title: Graduate Researcher
       institution: Machine Intelligence and Pattern Recognition Lab (MIPAL), SNU
       year: "2024.01 - Present"
-      description:
+      description: |
         - Research Focus: Trustworthy Generative AI, Computer Vision.
         - Developing robust and secure generative vision models, with a primary focus on data protection, adversarial defense, and model provenance against potential misuse.
 
     - title: Undergraduate Research Intern
       institution: AI and Robotics Institute, KIST
       year: "2023.06 - 2023.12"
-      description:
+      description: |
         - Advisor: Dr. Suhyun Kim
         - Developed adversarial defense mechanisms utilizing Diffusion and Super-Resolution models.
         - Conducted comparative analysis on purification performance against diverse adversarial attacks.
@@ -54,7 +54,7 @@
       institution: Capstone Design @ Ewha Womans Univ.
       year: "2023.02 - 2023.06"
       description: |
-        - Engineered an Object Detection pipeline (PyTorch) for food recognition and deployed a FastAPI server.
+        Engineered an Object Detection pipeline (PyTorch) for food recognition and deployed a FastAPI server.
         - Built a custom food image dataset via AI HUB to enhance model accuracy for Korean cuisine.
         - Selected as the University Representative Team for the National SW Talent Festival.
         <a href="https://github.com/CareSpoon/CareSpoon_AI">[GitHub]</a>
@@ -63,7 +63,7 @@
       institution: Undergraduate Course Project
       year: "2021.07 - 2021.08"
       description: |
-        - Developed a full-stack prototype integrating Vanilla JavaScript frontend with an AI inference backend.
+        Developed a full-stack prototype integrating Vanilla JavaScript frontend with an AI inference backend.
         - Implemented an Image Classification model (PyTorch) to automate bakery product checkout.
         <a href="https://github.com/gdscewha-3rd/Project-KIOSK">[GitHub]</a>
 
