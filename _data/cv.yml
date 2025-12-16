@@ -28,14 +28,14 @@
       institution: Machine Intelligence and Pattern Recognition Lab (MIPAL), SNU
       year: "2024.01 - Present"
       description:
-        - Focusing on Generative AI, Trustworthy AI, Computer Vision.
+        - Research Focuse: Generative AI, Trustworthy AI, Computer Vision.
         - Developing robust and secure generative vision models, with a primary focus on data protection, adversarial defense, and model provenance against potential misuse.
 
     - title: Undergraduate Research Intern
       institution: AI and Robotics Institute, KIST
       year: "2023.06 - 2023.12"
       description:
-        - Advised by Dr. Suhyun Kim
+        - Advisor: Dr. Suhyun Kim
         - Developed adversarial defense mechanisms utilizing Diffusion and Super-Resolution models.
         - Conducted comparative analysis on purification performance against diverse adversarial attacks.
 
