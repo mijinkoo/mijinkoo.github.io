@@ -26,7 +26,7 @@ latest_posts:
 
 I am a M.S. student in the **Department of Intelligence and Information** at **Seoul National University**, advised by [Prof. Nojun Kwak](https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en) in the [Machine Intelligence and Pattern Recognition Lab (MIPAL)](https://mipal.snu.ac.kr/).
 
-My research interests lie in **Generative AI**, **Trustworthy AI**, and **Computer Vision**. I am particularly interested in building robust and secure generative systems, specifically addressing challenges in **data protection**, **adversarial robustness** and **model provenance (fingerprinting)** against potential model misuse.
+My research interests lie in **AI Safety**, **Trustworthy AI**, and **Generative AI**. I am particularly interested in AI safety, with previous work on data protection, adversarial robustness, and model provenance in generative systems. Currently, I am also working as a Research Intern at [AIM Intelligence](https://www.linkedin.com/company/aim-intelligence-co/), where I am conducting research and development on safeguarding mechanisms for physical agents.
 
 Previously, I received my B.S. in **Computer Science and Engineering** from **Ewha Womans University**. During my undergraduate studies, I worked as a Research Intern at the **Korea Institute of Science and Technology (KIST)**, where I developed adversarial defense mechanisms utilizing Diffusion models.
 
