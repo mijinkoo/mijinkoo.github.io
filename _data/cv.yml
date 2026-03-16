@@ -24,6 +24,13 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Research Intern
+      institution: AIM INTELLIGENCE
+      year: "2026.01 - Present"
+      description:
+        - "Research Focus: Physical Agent Safeguard."
+        - Conducting research and development on safeguarding mechanisms for physical agents.
+        
     - title: Graduate Researcher
       institution: Machine Intelligence and Pattern Recognition Lab (MIPAL), SNU
       year: "2024.01 - Present"
