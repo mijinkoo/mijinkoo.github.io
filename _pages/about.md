@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: |
     <p>
-      <a href="https://scholar.google.com/citations?user=dYP6nf0AAAAJ" target="_blank"><i class="ai ai-google-scholar"></i></a>
-      <a href="https://www.linkedin.com/in/mijinkoo" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="mailto:starmj09@snu.ac.kr"><i class="fas fa-envelope"></i></a>
+      <a href="https://scholar.google.com/citations?user=dYP6nf0AAAAJ" target="_blank"><i class="ai ai-google-scholar ai-3x"></i></a>
+      <a href="https://www.linkedin.com/in/mijinkoo" target="_blank"><i class="fab fa-linkedin fa-3x"></i></a>
+      <a href="mailto:starmj09@snu.ac.kr"><i class="fas fa-envelope fa-3x"></i></a>
     </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
