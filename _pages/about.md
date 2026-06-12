@@ -8,10 +8,10 @@ profile:
   align: right
   image: my_prof_2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: |
     <p><i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=dYP6nf0AAAAJ" target="_blank">Google Scholar</a></p>
     <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/mijinkoo" target="_blank">LinkedIn</a></p>
-    <p>✉️ <a href="mailto:starmj09@snu.ac.kr">starmj09@snu.ac.kr</a></p>
+    <p><i class="fas fa-envelope"></i> <a href="mailto:starmj09@snu.ac.kr">starmj09@snu.ac.kr</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
