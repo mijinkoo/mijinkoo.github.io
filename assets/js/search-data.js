@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/mijinkoo.github.io/assets/pdf/Simple_CV_MijinKoo_2608.pdf";
+            window.location.href = "/cv/";
           },
         },{id: "nav-publications",
           title: "publications",
