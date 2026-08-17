@@ -2,9 +2,9 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: true
+nav: false
 nav_order: 2
-cv_pdf: CV_MijinKoo_Graduate_251202.pdf # you can also use external links here
+cv_pdf: Simple_CV_MijinKoo_2608.pdf
 description:
 toc:
   sidebar: left
