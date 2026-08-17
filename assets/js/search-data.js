@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/mijinkoo.github.io/assets/pdf/Simple_CV_MijinKoo_2608.pdf";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
