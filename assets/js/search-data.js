@@ -28,10 +28,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-joined-aim-intelligence-as-an-ai-safety-researcher-focusing-on-runtime-safeguards-for-physical-ai-agents",
+            },},{id: "news-i-joined-aim-intelligence-as-an-ai-safety-researcher-focusing-on-runtime-safeguards-for-physical-ai-agents",
           title: 'I joined AIM Intelligence as an AI Safety Researcher, focusing on runtime safeguards...',
           description: "",
           section: "News",},{id: "news-i-will-be-visiting-carnegie-mellon-university-cmu-as-a-visiting-student-supported-by-a-government-scholarship",
