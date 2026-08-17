@@ -1,10 +1,9 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: https://mijinkoo.github.io/assets/pdf/Simple_CV_MijinKoo_2608.pdf
 title: cv
-nav: false
+nav: true
 nav_order: 2
-cv_pdf: Simple_CV_MijinKoo_2608.pdf
 description:
 toc:
   sidebar: left
