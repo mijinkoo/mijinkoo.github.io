@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: my_prof_3.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: |
     <p>
       <a href="https://scholar.google.com/citations?user=dYP6nf0AAAAJ" target="_blank"><i class="ai ai-google-scholar ai-3x"></i></a>
