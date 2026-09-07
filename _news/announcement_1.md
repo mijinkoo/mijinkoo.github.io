@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be visiting **Carnegie Mellon University (CMU)** as a visiting student, supported by a government scholarship.
+I am visiting **Carnegie Mellon University (CMU)** as a **Visiting Scholar** in the School of Computer Science (S3D), fully funded by an IITP fellowship (Ministry of Science and ICT, Korea).
