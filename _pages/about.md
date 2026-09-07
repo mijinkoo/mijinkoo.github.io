@@ -29,10 +29,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a M.S. student in the **Department of Intelligence and Information** at **Seoul National University**, advised by [Prof. Nojun Kwak](https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en) in the [Machine Intelligence and Pattern Recognition Lab (MIPAL)](https://mipal.snu.ac.kr/).
+I am a Ph.D. student in the **Department of Intelligence and Information** at **Seoul National University**, advised by [Prof. Nojun Kwak](https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en) in the [Machine Intelligence and Pattern Recognition Lab (MIPAL)](https://mipal.snu.ac.kr/). Currently, I am a **Visiting Scholar** in the **School of Computer Science (S3D)** at **Carnegie Mellon University**, fully funded by an IITP fellowship from the Korean Ministry of Science and ICT.
 
-My research interests lie in **AI Safety**, **Trustworthy AI**, and **Generative AI**. I am particularly interested in AI safety, with previous work on data protection, adversarial robustness, and model provenance in generative systems. Currently, I am also working as a Research Intern at [AIM Intelligence](https://www.linkedin.com/company/aim-intelligence-co/), where I am conducting research and development on safeguarding mechanisms for physical agents.
+My research focuses on the **safety and security of generative and embodied AI**, including adversarial robustness, data protection for diffusion models, and runtime safeguards for VLM-based agents. Previously, I worked as an AI Researcher at [AIM Intelligence](https://www.linkedin.com/company/aim-intelligence-co/), where I developed VLM-based runtime safeguards for physical AI agents and deployed them on a Unitree G1 humanoid robot.
 
-Previously, I received my B.S. in **Computer Science and Engineering** from **Ewha Womans University**. During my undergraduate studies, I worked as a Research Intern at the **Korea Institute of Science and Technology (KIST)**, where I developed adversarial defense mechanisms utilizing Diffusion models.
+I received my B.S. in **Computer Science and Engineering** from **Ewha Womans University**. During my undergraduate studies, I worked as a Research Intern at the **Korea Institute of Science and Technology (KIST)**, developing adversarial defense methods based on diffusion models.
 
 I am always open to discussing new research ideas. Please feel free to contact me via [email](mailto:starmj09@snu.ac.kr) or [LinkedIn](https://www.linkedin.com/in/mijinkoo).
